@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "805696159009",
+    "project_id": "imsodone-1ee04",
+    "storage_bucket": "imsodone-1ee04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805696159009:android:b33d4dca253c2ffe2cd260",
+        "android_client_info": {
+          "package_name": "com.mf.imsodone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805696159009-v6mc2h430ti76g4dqv7dmqsn0ve683ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRUEM9zxjRSz3qd1-HjrFKXOKJao98ax0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805696159009-v6mc2h430ti76g4dqv7dmqsn0ve683ai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "805696159009-te9lje1u7h5924vvl99fffj2fn7f6gkb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mf.imsodone"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
